@@ -1,0 +1,8 @@
+{
+  "name": "jj-adminv2-fe",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:Nojejesus/jj-adminv2-fe.git",
+  "author": "Rosen <xxx@happymmall.com>",
+  "license": "MIT"
+}
